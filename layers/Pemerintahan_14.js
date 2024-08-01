@@ -1,0 +1,1 @@
+var json_Pemerintahan_14 = {"type":"FeatureCollection","name":"Pemerintahan_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"2","Nama Pemerintahan":"Balai Desa & Kantor Kepala Desa Tingal"},"geometry":{"type":"Point","coordinates":[112.225193167336414,-8.090213445789466]}}]}

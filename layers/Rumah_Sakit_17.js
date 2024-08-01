@@ -1,0 +1,1 @@
+var json_Rumah_Sakit_17 = {"type":"FeatureCollection","name":"Rumah_Sakit_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Nama Rumah Sakits":null},"geometry":{"type":"Point","coordinates":[112.226401777000092,-8.086159340999927]}}]}

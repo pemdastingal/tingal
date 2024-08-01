@@ -1,0 +1,1 @@
+var json_Toponimi_11 = {"type":"FeatureCollection","name":"Toponimi_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Nama Toponimi":"TINGGAL"},"geometry":{"type":"Point","coordinates":[112.226895194,-8.089310111999964]}}]}

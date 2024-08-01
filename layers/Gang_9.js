@@ -1,0 +1,1 @@
+var json_Gang_9 = {"type":"FeatureCollection","name":"Gang_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"MultiLineString","coordinates":[[[112.23719761008347,-8.089277079885775],[112.237479922310342,-8.088403881602673]]]}}]}
